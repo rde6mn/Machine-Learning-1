@@ -1,0 +1,91 @@
+Timestamp,phone_type,undergrad_major,num_cups,sleep_hrs,fav_sports,ds_skills,outdoor_hrs,ai_tools_use,ideal_temp,phone_hrs,music_while_studying,music_genre,num_states,fav_season,study_env,summer_desc,general_area_of_study,class_session,min_num_cups,max_num_cups,avg_num_cups,min_sleep_hrs,max_sleep_hrs,avg_sleep_hrs
+2025-08-27 10:05:16,iPhone,Math,0,7,Football,7.0,2.0,Often,68.0,3 hours,Yes,Pop,39,Fall,Dorm,Crazy,Math,Session 1,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 10:05:19,iPhone,Economics,1-2,7,Soccer,6.0,1.0,Sometimes,75.0,5,Yes,EDM/House,20,Summer,Library,Unreal,Commerce,Session 1,1.0,2.0,1.5,7.0,7.0,7.0
+2025-08-27 10:05:19,iPhone,Industrial engineering,1 to 2,6,Basketball,6.0,3.5,Always,68.0,2 to 3,No,Techno,6,Fall,Home,Amazing,Engineering,Session 1,1.0,2.0,1.5,6.0,6.0,6.0
+2025-08-27 10:05:24,iPhone,Economics,1,7,Football,3.0,2.0,,70.0,4,Yes,Rock,43,Spring,Outdoors,Interesting,Commerce,Session 1,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 10:05:27,iPhone,Biology,5,8,Football,5.0,3.0,Sometimes,65.0,5,Yes,Country/Folk,15,Fall,Library,Fantastic,Science,Session 1,5.0,5.0,5.0,8.0,8.0,8.0
+2025-08-27 10:05:32,iPhone,Computer Science,1,7,Football,6.0,4.0,Often,75.0,5,No,Jazz,20,Summer,library,Fun,Computer Science,Session 1,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 10:05:35,iPhone,Biomedical Engineering,2,6,Basketball,4.0,0.5,Often,65.0,18,Yes,Rap/R&B,6,Fall,Coffee shop,Exciting,Engineering,Session 1,2.0,2.0,2.0,6.0,6.0,6.0
+2025-08-27 10:05:42,iPhone,Computer Science,1,4,Formula 1,8.0,2.0,Never,20.0,8,Yes,Pop,24,Winter,In my office,Busy,Computer Science,Session 1,1.0,1.0,1.0,4.0,4.0,4.0
+2025-08-27 10:05:44,iPhone,Statistics,1-2,8-10,Football,8.0,2.0,Sometimes,70.0,4,Yes,Pop,30,Winter,"coffee shops, library",relaxing ,Math,Session 1,1.0,2.0,1.5,8.0,10.0,9.0
+2025-08-27 10:05:45,iPhone,Public Policy,0,6.5,Basketball,6.0,4.0,Sometimes,72.0,5,Yes,Indie,35,Fall,Library,Uneventful ,Policy,Session 1,0.0,0.0,0.0,6.5,6.5,6.5
+2025-08-27 10:05:54,iPhone,International Affairs,2,7,Soccer,3.0,2.0,Often,72.0,2,No,Rock,30,Fall,dorm,work,Policy,Session 1,2.0,2.0,2.0,7.0,7.0,7.0
+2025-08-27 10:05:58,iPhone,Cognitive Science ,0,7,Basketball,7.0,2.0,Sometimes,75.0,7 hours,Yes,R&B,11,Spring,My desk,Exciting,Science,Session 1,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 10:06:08,iPhone,Data Science,0,6-7,Basketball,8.0,1.5,Often,69.0,9,Yes,Rap/Rock,15,Fall,Anywhere other than my house,Busy!,Data Science,Session 1,0.0,0.0,0.0,6.0,7.0,6.5
+2025-08-27 10:06:09,iPhone,Computer Science,1,8,Soccer,7.0,3.0,Often,75.0,2hrs 58min,No,Rock,6,Fall,Library,Okay,Computer Science,Session 1,1.0,1.0,1.0,8.0,8.0,8.0
+2025-08-27 10:06:10,iPhone,Statistics,1,7,Basketball,6.0,1.0,Sometimes,80.0,4,No,R&B,8,Summer,library,Reflective,Math,Session 1,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 10:06:16,iPhone,"Statistics, Economics",1,7-8,Formula 1,8.0,3.0,Always,70.0,4,Yes,Country,22,Fall,Library,Busy,Dual Areas,Session 1,1.0,1.0,1.0,7.0,8.0,7.5
+2025-08-27 10:06:17,iPhone,Commerce,1,8,Tennis,6.5,2.0,Often,75.0,5,Yes,Indie,23,Fall,Coffee shop,adventurous,Commerce,Session 1,1.0,1.0,1.0,8.0,8.0,8.0
+2025-08-27 10:06:17,iPhone,Electrical Engineering,One,8,Snooker,4.0,,Often,70.0,2,No,Pop,1,Summer,Library,Amazing,Engineering,Session 1,1.0,1.0,1.0,8.0,8.0,8.0
+2025-08-27 10:06:30,iPhone,Economics,2,7,Soccer,5.0,2.0,Often,75.0,6.5,No,R&B,12,Summer,Coffee Shop,Busy,Commerce,Session 1,2.0,2.0,2.0,7.0,7.0,7.0
+2025-08-27 10:06:37,iPhone,"Statistics, Economics",4,8,Football,8.0,4.0,Often,68.0,5:45,Yes,Rock/Metal,11,Summer,Home,Fast,Dual Areas,Session 1,4.0,4.0,4.0,8.0,8.0,8.0
+2025-08-27 10:06:38,iPhone,Information Science,0,8,Soccer,5.0,1.0,Often,73.0,5,Yes,Rap,30,Winter,Bedroom,Relaxing,Computer Science,Session 1,0.0,0.0,0.0,8.0,8.0,8.0
+2025-08-27 10:06:40,iPhone,Statistics,0,8,Soccer,6.0,1.0,Sometimes,68.0,7.5,No,Pop,24,Spring,Dorm,Adventurous,Math,Session 1,0.0,0.0,0.0,8.0,8.0,8.0
+2025-08-27 10:06:41,iPhone,Statistics,0,8,Basketball,6.0,1.0,Rarely,71.0,2.5,No,Alternative Rock,11,Spring,Bedroom,Lackluster,Math,Session 1,0.0,0.0,0.0,8.0,8.0,8.0
+2025-08-27 10:06:45,iPhone,Statistics,0,7,Basketball,7.0,2.0,Sometimes,73.0,6,No,Pop,17,Spring,Library,Repetitive,Math,Session 1,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 10:06:51,iPhone,Game Design & Development,0,10,,2.0,4.0,Often,72.0,4,No,Classic rock,9,Fall,home,perfect,Computer Science,Session 1,0.0,0.0,0.0,10.0,10.0,10.0
+2025-08-27 10:06:55,iPhone,Business (Marketing & Management) ,2,7,Track & Field,3.0,4.0,Sometimes,75.0,6,No,R&B,11,Fall,My Room ,Busy ,Commerce,Session 1,2.0,2.0,2.0,7.0,7.0,7.0
+2025-08-27 10:06:55,iPhone,Astronautical Engineering,2,8,Soccer,3.0,2.0,Often,62.0,3,Yes,Indie,34,Winter,Home at my desk,Transformational,Engineering,Session 1,2.0,2.0,2.0,8.0,8.0,8.0
+2025-08-27 10:06:59,Android,History/ American Studies ,2,7,Soccer,4.0,1.0,Sometimes,72.0,1.25,No,Classical ,40,Fall,Office ,Scheduled,Humanities,Session 1,2.0,2.0,2.0,7.0,7.0,7.0
+2025-08-27 10:07:00,iPhone,Environmental Science and Thought & Practice,1-2 ,6-8,Hockey,3.0,2.0,Rarely,68.0,probably 4-6,Yes,anything but country ,10,Winter,coffee shop or my apartment ,ok ,Science,Session 1,1.0,2.0,1.5,6.0,8.0,7.0
+2025-08-27 10:07:04,iPhone,Statistics,0,7,,6.0,1.0,Rarely,60.0,8,Yes,afrobeats,10,Fall,study room,relaxing,Math,Session 1,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 10:07:04,Android,Statistics,1,8h,Soccer,7.0,1.0,Sometimes,70.0,4h,No,pop,12,Summer,dorm,wonderful,Math,Session 1,1.0,1.0,1.0,8.0,8.0,8.0
+2025-08-27 10:07:05,iPhone,Accounting,2,8,,6.0,1.0,Often,77.0,2,No,Jazz,8,Fall,Indoor by the window when it’s raining outside,Fantastic,Commerce,Session 1,2.0,2.0,2.0,8.0,8.0,8.0
+2025-08-27 10:07:10,iPhone,Statistics,2,"6,7",Soccer,6.5,1.5,Often,74.0,4,No,House,15,Fall,Coffee shop or library,Memorable,Math,Session 1,2.0,2.0,2.0,6.0,7.0,6.5
+2025-08-27 10:07:18,iPhone,Special Education,I only drink coffee if it’s really sweet. I am usually a can of soda girl,7-8,,3.0,1.0,Sometimes,65.0,8,Yes,Pop,9,Spring,Living room,Restful ,Humanities,Session 1,0.0,0.0,0.0,7.0,8.0,7.5
+2025-08-27 10:07:20,iPhone,Psychology,1,8,Basketball,6.0,2.0,Often,65.0,4,Yes,Pop,21,Fall,Coffee shop,Relaxing,Science,Session 1,1.0,1.0,1.0,8.0,8.0,8.0
+2025-08-27 10:07:23,iPhone,Financial Engineering,0,8,Baseball,7.0,2.0,Never,67.0,4,Yes,EDM,17,Fall,Library,Busy,Commerce,Session 1,0.0,0.0,0.0,8.0,8.0,8.0
+2025-08-27 10:07:24,iPhone,Economics,0,8,Soccer,6.0,3.0,Often,77.0,8,Yes,folk,3,Summer,bedroom,Good,Commerce,Session 1,0.0,0.0,0.0,8.0,8.0,8.0
+2025-08-27 10:07:36,iPhone,Mechanical engineering ,3,4,,1.0,2.0,Often,60.0,3.5,No,Hardcore/punk,20,Fall,Home office,Busy,Engineering,Session 1,3.0,3.0,3.0,4.0,4.0,4.0
+2025-08-27 10:07:37,iPhone,Fine Arts,1,8,Basketball,5.0,3.0,Rarely,70.0,6,Yes,Indie,10,Fall,Coffee shop,Humid,Humanities,Session 1,1.0,1.0,1.0,8.0,8.0,8.0
+2025-08-27 10:07:41,iPhone,Computer Science,0.5,8,Basketball,10.0,1.0,Often,80.0,4,Yes,Country,23,Summer,Academic Building,Awesome,Computer Science,Session 1,0.5,0.5,0.5,8.0,8.0,8.0
+2025-08-27 10:07:59,iPhone,Computer Science,0,9,Soccer,7.5,3.0,Often,68.0,8,No,Hip-Hop,5,Summer,School Rooms,Refreshing,Computer Science,Session 1,0.0,0.0,0.0,9.0,9.0,9.0
+2025-08-27 10:08:02,iPhone,Computer Science,1,7,Soccer,5.0,2.0,Sometimes,70.0,4,Yes,Pop,25,Fall,Coffee shop,Exciting,Computer Science,Session 1,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 10:09:17,iPhone,Anthropology,0.5,8.5,Hurling,7.0,1.0,Rarely,65.0,4.5,Yes,Folk rock,26,Fall,Good chair,Relaxing,Humanities,Session 1,0.5,0.5,0.5,8.5,8.5,8.5
+2025-08-27 11:05:07,iPhone,Financial Engineering,0,7,Basketball,4.0,4.0,Often,65.0,6,No,Rock,35,Fall,Library ,Productive ,Commerce,Session 2,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 11:05:13,iPhone,Statistics,1,7,Hockey,2.0,3.0,Often,70.0,8,No,Indie pop,6,Fall,Student health,Uneventful,Math,Session 2,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 11:05:42,iPhone,Commerce,"y = mx+b where b is 1 coffee and m is correlated to sleep the night before. On average, I have about 2.5 total (y). ",Not enough. ,Basketball,1.0,3.0,Sometimes,65.0,3.5,Yes,EDM,14,Fall,Library ,Vibes ,Commerce,Session 2,2.5,2.5,2.5,,,
+2025-08-27 11:05:43,iPhone,Data Science,1,9,Football,8.0,1.0,Always,75.0,8,No,Hip-Hop,50,Fall,Library,Restful,Data Science,Session 2,1.0,1.0,1.0,9.0,9.0,9.0
+2025-08-27 11:06:06,iPhone,Systems Engineering,1,7,Basketball,6.0,2.0,Often,68.0,4,Yes,rock,26,Fall,Library,Fast,Engineering,Session 2,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 11:06:07,iPhone,Computer Science,0,6,Baseball,8.0,3.0,Rarely,72.0,8,No,Pop,17,Spring,My room,Rigorous,Computer Science,Session 2,0.0,0.0,0.0,6.0,6.0,6.0
+2025-08-27 11:06:17,iPhone,Sport Analytics,1.5,8,Tennis,7.0,2.0,Sometimes,71.0,6 hours and 38 minutes,Yes,Alternative,28,Spring,Library,Good,Math,Session 2,1.5,1.5,1.5,8.0,8.0,8.0
+2025-08-27 11:06:18,iPhone,Economics,1,7,Basketball,9.0,1.0,Always,68.0,4,No,Reggaeton,36,Fall,Library,Chaotic ,Commerce,Session 2,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 11:06:21,Android,Chemical Engineering,3,6,Football,5.0,4.0,Often,70.0,3,Yes,Instrumental,5,Fall,Cafe,Interesting,Engineering,Session 2,3.0,3.0,3.0,6.0,6.0,6.0
+2025-08-27 11:06:22,iPhone,Statistics,1,7,Baseball,7.0,4.0,Often,65.0,8,Yes,K-pop ,13,Fall,library,instructive,Math,Session 2,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 11:06:23,iPhone,Public Policy,0,6,Soccer,5.0,2.0,Sometimes,70.0,5,Yes,Rap,7,Fall,Library,Restful,Policy,Session 2,0.0,0.0,0.0,6.0,6.0,6.0
+2025-08-27 11:06:26,iPhone,Statistics,1-2,9,Soccer,6.0,3.0,Sometimes,70.0,7,Yes,alt/indie ,31,Fall,Shannon Library Floor 3,corporate,Math,Session 2,1.0,2.0,1.5,9.0,9.0,9.0
+2025-08-27 11:06:31,iPhone,Statistics,1-2,6-7:30,Tennis,6.5,3.0,Sometimes,75.0,3-4,No,Rock/pop,30,Spring,Outdoors,Awesome,Math,Session 2,1.0,2.0,1.5,6.0,7.5,6.75
+2025-08-27 11:06:31,iPhone,Environmental Data Science,0,9,Football,6.0,5.0,Sometimes,65.0,5,Yes,Trap,15,Fall,Library,Fun,Data Science,Session 2,0.0,0.0,0.0,9.0,9.0,9.0
+2025-08-27 11:06:38,iPhone,Systems Engineering,1,7,Volleyball,8.0,2.0,Often,80.0,8,Yes,RnB,20,Spring,coffee shop,Chill,Engineering,Session 2,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 11:06:39,iPhone,Statistics,1,9,Hockey,3.0,2.0,Rarely,65.0,4,Yes,Pop,15,Summer,Library,Fun,Math,Session 2,1.0,1.0,1.0,9.0,9.0,9.0
+2025-08-27 11:06:41,iPhone,Astrophysics,2,7,Football,6.5,3.0,Often,71.0,7.5,Yes,Alternative,29,Fall,Coffee shop,Relaxing,Science,Session 2,2.0,2.0,2.0,7.0,7.0,7.0
+2025-08-27 11:06:42,iPhone,"Computer Science, Economics",1,7,"['Swimming', 'Football']",7.0,0.75,Always,77.0,7,Yes,80s pop,26,Winter,Classrooms,Rollercoaster ,Dual Areas,Session 2,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 11:06:42,iPhone,Statistics,0,7,Baseball,2.0,2.0,Often,70.0,7,Yes,Funk/Yacht Rock,36,Fall,Library/,Uneventful,Math,Session 2,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 11:06:54,iPhone,Psychology,1,7,Basketball,3.0,2.0,Often,70.0,5.5 hrs,Yes,RnB,6,Spring,Library or reading rooms,Invigorating,Science,Session 2,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 11:06:55,iPhone,Math,0,8.5,Basketball,8.0,3.0,Often,85.0,5,Yes,Rap,25,Spring,"Library, dorm",Chill,Math,Session 2,0.0,0.0,0.0,8.5,8.5,8.5
+2025-08-27 11:06:56,iPhone,Digital Narrative and Interactive Design,0,6-7,Basketball,6.0,1.0,Never,71.0,10,Yes,pop punk/riot grrl ,9,Fall,my room or the library ,boring ,Computer Science,Session 2,0.0,0.0,0.0,6.0,7.0,6.5
+2025-08-27 11:07:07,iPhone,Statistics,usually 0 but like to treat myself to 1 ,6,"['Basketball', 'Volleyball']",4.0,5.0,Sometimes,73.0,3,Yes,rnb ,18,Fall,coffee shop or library ,FUN,Math,Session 2,0.0,1.0,0.5,6.0,6.0,6.0
+2025-08-27 11:07:10,iPhone,Accounting,0-1,Not enough 🥺 maybe 4-6,,5.0,2.0,Always,75.0,8,Yes,R&b but typically based on daily mood,12,Fall,All! Depends on health/wellness needs,Depressing 🥺,Commerce,Session 2,0.0,1.0,0.5,4.0,6.0,5.0
+2025-08-27 11:07:12,iPhone,Computer Science,0,8,Football,4.0,2.0,Often,75.0,4 hours,Yes,Country,20,Summer,Library,Exciting,Computer Science,Session 2,0.0,0.0,0.0,8.0,8.0,8.0
+2025-08-27 11:07:13,iPhone,Data Science,1,7-9,Track & Field,8.0,3.0,Often,70.0,4,No,Soft pop,20,Fall,Coffee shop,Chaotic,Data Science,Session 2,1.0,1.0,1.0,7.0,9.0,8.0
+2025-08-27 11:07:17,iPhone,Biology,0,7,"['Soccer', 'Formula 1']",5.0,3.0,Sometimes,75.0,4,No,Reggaeton ,8,Fall,Library ,Relaxing,Science,Session 2,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 11:07:18,iPhone,Industrial and Systems Engineering ,0,7,Football,5.0,2.0,Often,80.0,5,Yes,EDM,20,Fall,My room ,Chill,Engineering,Session 2,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 11:07:20,iPhone,Plant Biology ,0,5.5,Football,6.0,7.0,Often,70.0,9 hours,Yes,80s Music,5,Summer,Library,Legendary!,Science,Session 2,0.0,0.0,0.0,5.5,5.5,5.5
+2025-08-27 11:07:22,iPhone,Economics,2,8,Basketball,7.5,3.0,Often,60.0,2.6,No,Folk,28,Fall,Library,Amazing,Commerce,Session 2,2.0,2.0,2.0,8.0,8.0,8.0
+2025-08-27 11:07:23,iPhone,Statistics,0,7-8,Golf,8.0,1.0,Often,65.0,8.5,Yes,Kpop,8,Fall,My house,Hot,Math,Session 2,0.0,0.0,0.0,7.0,8.0,7.5
+2025-08-27 11:07:23,iPhone,Electrical Engineering,2 (coffee),8,Football,7.0,3.0,Rarely,74.0,5,No,Classic rock,40,Spring,Dorm,Grand,Engineering,Session 2,2.5,2.5,2.5,8.0,8.0,8.0
+2025-08-27 11:07:29,iPhone,Computer Science,0,8,Cornhole,9.0,4.0,Often,74.0,6,Yes,Country/Folk,12,Fall,Library,Chill,Computer Science,Session 2,0.0,0.0,0.0,8.0,8.0,8.0
+2025-08-27 11:07:29,iPhone,International Affairs,2,7,Olympic Women’s Gymnastics,5.0,4.0,Sometimes,60.0,4,No,Bluegrass,28,Fall,Backyard ,Stressful,Policy,Session 2,2.0,2.0,2.0,7.0,7.0,7.0
+2025-08-27 11:07:35,Android,Commerce,2,8,,6.5,7.0,Often,75.0,4,Yes,Pop,3,Summer,Coffee shop,Peaceful,Commerce,Session 2,2.0,2.0,2.0,8.0,8.0,8.0
+2025-08-27 11:07:35,Android,Computer Science,0,7,Football,6.0,4.0,Sometimes,75.0,6,Yes,Pop,27,Fall,Library,Exhilarating,Computer Science,Session 2,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 11:07:50,iPhone,Math,0.5,8,Basketball,2.0,2.0,Sometimes,68.0,4,No,Hip hop,14,Spring,Library,Eh,Math,Session 2,0.5,0.5,0.5,8.0,8.0,8.0
+2025-08-27 11:07:59,iPhone,Computer Science,0,9,Supercross,6.0,2.0,Sometimes,68.0,5.5,No,,14,Winter,Dorm,Calm,Computer Science,Session 2,0.0,0.0,0.0,9.0,9.0,9.0
+2025-08-27 11:08:01,iPhone,Business analytics ,0,8,Football,6.0,2.0,Sometimes,68.0,5 hours ,Yes,Rap ,10,Fall,Library or coffee shop ,Fast-paced ,Commerce,Session 2,0.0,0.0,0.0,8.0,8.0,8.0
+2025-08-27 11:08:02,Android,"Computer Science, Data Science",3,7.5,Football,10.0,3.0,Always,68.0,7,Yes,Rock,43,Fall,Coffee shop,Pulchritudinous,Dual Areas,Session 2,3.0,3.0,3.0,7.5,7.5,7.5
+2025-08-27 11:08:28,iPhone,Physics ,0-1,8-10,,7.5,2.0,Rarely,70.0,2.5 hours,Yes,Girly pop,18,Summer,Coffee shop or library - outdoors is hard to see a laptop screen,Relaxing!,Science,Session 2,0.0,1.0,0.5,8.0,10.0,9.0
+2025-08-27 11:08:30,iPhone,Computer Engineering,6,7,Baseball,8.0,0.0,Rarely,90.0,2,No,Jazz,10,Fall,Library,Fine,Engineering,Session 2,6.0,6.0,6.0,7.0,7.0,7.0
+2025-08-27 11:08:37,iPhone,Statistics,100mg of caffeine,6,Volleyball,2.0,0.5,Sometimes,71.0,4.5,Yes,Jazz-pop,17,Winter,Room or coffee shop,Adventurous,Math,Session 2,1.0,1.0,1.0,6.0,6.0,6.0
+2025-08-27 11:08:37,iPhone,Biomedical Engineering,1,7,Basketball,7.0,2.0,Often,55.0,2hr 59min,Yes,Country,13,Fall,coffee shop,chaotic,Engineering,Session 2,1.0,1.0,1.0,7.0,7.0,7.0
+2025-08-27 11:08:42,iPhone,Commerce,2,7,Basketball,5.0,4.0,Always,75.0,7,No,R&B,18,Summer,Library,Busy ,Commerce,Session 2,2.0,2.0,2.0,7.0,7.0,7.0
+2025-08-27 11:08:44,iPhone,Statistics,0,7,,5.0,1.0,Sometimes,65.0,8,Yes,All,16,Summer,"quiet, indoors, sunny",Busy,Math,Session 2,0.0,0.0,0.0,7.0,7.0,7.0
+2025-08-27 11:09:56,iPhone,Chemical Engineering,4 cups of tea in the morning per day,7 hours,Basketball,3.5,1.0,Sometimes,74.0,1 hour 46 minutes ,No,Classical piano music and pop music ,3,Fall,My own apartment or somewhere quiet on campus ,Great,Engineering,Session 2,4.0,4.0,4.0,7.0,7.0,7.0
